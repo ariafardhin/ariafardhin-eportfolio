@@ -1,4 +1,5 @@
-[Me](Aria.jpg)
+![Me](https://github.com/ariafardhin/ariafardhin-eportfolio/blob/main/Aria.jpg?raw=true)
+
 # ariafardhin-eportfolio
 Software Engineering student at Universiti Teknologi Malaysia
 
