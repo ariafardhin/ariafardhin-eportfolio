@@ -1,6 +1,6 @@
 ![Me](https://github.com/ariafardhin/ariafardhin-eportfolio/blob/main/Aria.jpg?raw=true)
 
-# ariafardhin-eportfolio
+# Aria Fardhin Nidhi
 Software Engineering student at Universiti Teknologi Malaysia
 
 Artist|Singer|
