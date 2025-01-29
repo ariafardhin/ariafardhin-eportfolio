@@ -3,7 +3,9 @@ Software Engineering student at Universiti Teknologi Malaysia
 
 Artist|Singer|
 **Currently learning:** Coding
+
 **Languages:** Bangla,English,French
+
 
 **Projects:**
 [2D Game Bblast](https://drive.google.com/drive/folders/1S8GCHqWRjC4F3QuRmtaj6rX78NCADCdJ?usp=sharing)
